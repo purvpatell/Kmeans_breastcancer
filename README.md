@@ -1,5 +1,3 @@
-# Kmeans_breastcancer
-
 # K-Means Clustering on Breast Cancer Data
 
 ## Project Description
